@@ -886,15 +886,14 @@ section h2{
 
 .gal img{
     cursor:pointer;
-}
+    
 #profil{
-    background:linear-gradient(rgba(0,0,0,.65), rgba(0,0,0,.65)),
-               url("profil.jpg");
-    background-size:cover;
-    background-position:center;
-    background-attachment:fixed;
-    padding:100px 20px;
-    color:white;
+    background: linear-gradient(rgba(0,0,0,.65), rgba(0,0,0,.65)),
+                url("profil.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
 }
 
 #profil h2{
